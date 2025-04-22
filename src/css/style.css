@@ -56,7 +56,7 @@ main {
 
     text-align: center;
     padding: 4rem 2rem;
-    background-image: url(./imgs/pexels-marketingtuig-87224.jpg);
+    background-image: url(../assets/imgs/pexels-marketingtuig-87224.jpg);
     background-size: cover;
     background-position: center;
     color: rgb(255, 255, 255);
@@ -163,4 +163,34 @@ footer {
     margin: 10% auto;
     align-items: center;
     font-family: 'Montserrat', sans-serif
+}
+
+.botao {
+    background-color:#7b1e22; 
+    color:white; 
+    border:none; 
+    padding:10px 20px; 
+    border-radius:4px; 
+    cursor:pointer;
+}
+
+.botao:hover {
+    background-color: #521417;
+}
+
+.video {
+    max-width: 800px;
+    margin: 10% auto;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif
+}
+
+.video p {
+    padding: 2rem;
+}
+
+.video iframe {
+    margin: 5% 0;
+    align-items: center;
+    border-radius: 15px;
 }
