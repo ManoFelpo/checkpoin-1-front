@@ -26,7 +26,7 @@ O site conta com:
 
 ## Links
 - 🔗 [Repositório no GitHub](https://github.com/ManoFelpo/checkpoin-1-front)
-- 🔗 [Site publicado no GitHub Pages]()
+- 🔗 [Site publicado no GitHub Pages](https://manofelpo.github.io/checkpoin-1-front/)
 
 ---
 
