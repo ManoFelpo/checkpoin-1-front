@@ -125,3 +125,42 @@ footer {
     justify-content: center;
     align-items: center;
 }
+
+.pagina img {
+    height: 50%;
+    width: 50%;
+    border-radius: 15px;
+}
+
+.pagina p {
+    padding: 2rem;
+}
+
+.pagina {
+    max-width: 800px;
+    margin: 10% auto;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif
+}
+
+.pagina2 table {
+    border-radius: 15px;
+    width:100%;
+    margin-top:20px;
+    text-align:center;
+    overflow: hidden;
+}
+
+.pagina2 img {
+    margin: 5% 5%;
+    height: 80%;
+    width: 80%;
+    border-radius: 15px;
+}
+
+.pagina2 {
+    max-width: 800px;
+    margin: 10% auto;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif
+}
