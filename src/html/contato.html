@@ -7,6 +7,7 @@
     <meta name="description" content="Entre em contato com a Vinharia Agnello para tirar dúvidas ou fazer pedidos.">
     <title>Contato - Vinharia Agnello</title>
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/efeitos.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -27,25 +28,25 @@
             <h1>Fale Conosco</h1>
             <p>Quer saber mais sobre nossos vinhos? Precisa de ajuda para escolher a garrafa perfeita? Preencha o formulário abaixo e nossa equipe entrará em contato!</p>
 
-            <form action="#" method="POST" style="margin-top:30px; max-width:600px; margin-left:auto; margin-right:auto;">
+            <form style="margin-top:30px; max-width:600px; margin-left:auto; margin-right:auto;">
                 <div style="margin-bottom:15px;">
                     <label for="nome">Nome:</label><br>
-                    <input type="text" id="nome" name="nome" required style="width:100%; padding:10px; border:1px solid #ccc; border-radius:4px;">
+                    <input type="text" id="nome" name="nome" required style="width:100%; padding:10px; border:1px solid #ccc; border-radius:4px;" class="formulario">
                 </div>
 
                 <div style="margin-bottom:15px;">
                     <label for="email">E-mail:</label><br>
-                    <input type="email" id="email" name="email" required style="width:100%; padding:10px; border:1px solid #ccc; border-radius:4px;">
+                    <input type="email" id="email" name="email" required style="width:100%; padding:10px; border:1px solid #ccc; border-radius:4px;" class="formulario">
                 </div>
 
                 <div style="margin-bottom:15px;">
                     <label for="mensagem">Mensagem:</label><br>
-                    <textarea id="mensagem" name="mensagem" rows="5" required style="width:100%; padding:10px; border:1px solid #ccc; border-radius:4px;"></textarea>
+                    <textarea id="mensagem" name="mensagem" rows="5" required style="width:100%; padding:10px; border:1px solid #ccc; border-radius:4px;" class="formulario"></textarea>
                 </div>
+                    <button class="botao" type="submit">
+                        Enviar
+                    </button>
 
-                <button class="botao" type="submit">
-                    Enviar
-                </button>
             </form>
         </section>
     </main>

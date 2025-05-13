@@ -41,11 +41,11 @@ nav a {
     color: #000000;
     text-decoration: none;
     font-weight: bold;
-    transition: font-size 0.3s ease;
+
 }
 
-nav a:hover {
-    font-size: 20px;
+nav li {
+    transition: 0.2s ease-in-out;
 }
 
 main {
@@ -174,10 +174,6 @@ footer {
     cursor:pointer;
 }
 
-.botao:hover {
-    background-color: #521417;
-}
-
 .video {
     max-width: 800px;
     margin: 10% auto;
@@ -194,3 +190,20 @@ footer {
     align-items: center;
     border-radius: 15px;
 }
+
+.linkvideo {
+    text-decoration: none;
+}
+
+.enviada {
+  background-color: #d5c189;
+  color: #000;
+  padding: 12px 24px;
+  border-radius: 8px;
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  opacity: 0;
+}
+
+@import url(efeitos.css);
