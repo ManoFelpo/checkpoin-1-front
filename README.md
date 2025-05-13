@@ -58,4 +58,4 @@ Essa animação é aplicada ao botão ao ser clicado, simulando envio de mensage
 
 ## 🔗 Links
 - [📂 Repositório no GitHub](https://github.com/ManoFelpo/vinharia-agnello.git)
-- [🌐 Site publicado no GitHub Pages](https://manofelpo.github.io/checkpoin-1-front/)
+- [🌐 Site publicado no GitHub Pages](https://manofelpo.github.io/vinharia-agnello/)
